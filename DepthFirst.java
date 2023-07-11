@@ -1,4 +1,3 @@
-
 package com.mycompany.maze.solver.proj;
 
 import java.util.List;
