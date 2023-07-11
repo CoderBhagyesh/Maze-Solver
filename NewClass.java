@@ -1,4 +1,4 @@
-package com.mycompany.maze.solver.minor_proj1;
+package com.mycompany.maze.solver.proj;
 
 import java.awt.Color;
 import java.awt.Graphics;
